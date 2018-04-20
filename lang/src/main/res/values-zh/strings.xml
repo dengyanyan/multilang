@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language">更改语言</string>
+    <string name="english">英语</string>
+    <string name="russian">俄语</string>
+    <string name="chinese">中文(简体)</string>
+    <string name="change_lang_info">如果改变语言，应用将会重启</string>
+    <string name="save_lang">保存</string>
+</resources>

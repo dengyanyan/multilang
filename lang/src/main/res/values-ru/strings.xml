@@ -1,0 +1,9 @@
+<resources>
+    <string name="change_language">change language</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="chinese">Chinese</string>
+    <string name="change_lang_info">If you change the language, the application will restart</string>
+    <string name="save_lang">Save</string>
+    <string name="language_auto">Auto</string>
+</resources>
